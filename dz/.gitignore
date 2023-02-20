@@ -1,4 +1,3 @@
-gitignore
-obj
 bin
-dz
+obj
+dz.csproj
